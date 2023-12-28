@@ -4,3 +4,4 @@ You can type your account number and donate to me below. (USD)-(GBP) 👇👇�
 
 # Bank name ->> Citibank 70582810000690028 (USD)
 # Bank name ->> Barclays 15152845 (GBP)
+# Bank name ->> Krung Thai Bank 3330503483 (THB)
